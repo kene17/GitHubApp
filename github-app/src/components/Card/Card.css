@@ -1,0 +1,39 @@
+.card{
+    display:flex;
+    justify-content: center;
+    padding: 20px 0;
+    position: relative;
+    cursor: pointer;
+    
+  }
+
+  .modal-content{
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    cursor: pointer;
+  }
+  /* .img-container-actions{
+    display: flex;
+    
+   
+  
+}
+
+.img-container:hover img{
+    filter: grayscale(60%);
+    transform: scale(1.1);
+  
+  }
+
+  div.img-container:hover .img-container-actions{
+  
+    opacity: 1;
+    
+  
+  }
+
+  button{
+    border: none;
+    background-color: transparent;
+    outline: none;
+   */
+  
